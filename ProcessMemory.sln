@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessMemory", "ProcessMemory\ProcessMemory.csproj", "{F9CDD16B-68D9-49E9-8F1B-13EEF87D6377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9CDD16B-68D9-49E9-8F1B-13EEF87D6377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CDD16B-68D9-49E9-8F1B-13EEF87D6377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CDD16B-68D9-49E9-8F1B-13EEF87D6377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CDD16B-68D9-49E9-8F1B-13EEF87D6377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
